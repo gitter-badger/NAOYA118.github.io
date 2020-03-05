@@ -1,5 +1,5 @@
 # こんにちは
-<img src="naoya118.jpg" width=35%><br>
+![アイコン](naoya118.jpg)<br>
 ### 僕は
 
 [NAOYA118](https://scratch.mit.edu/users/NAOYA118/) (Scratch)<br>
