@@ -1,4 +1,5 @@
 <link rel="icon" type="image/x-icon" href="naoya118.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="naoya118.png">
 
 # こんにちは
 ![アイコン](naoya118.jpg)<br>
