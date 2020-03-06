@@ -14,3 +14,6 @@ Scratchやってます<br>
 # GitHub
 バージョン管理便利<br>
 前のバージョンが復元できる<br>
+
+***
+[トップページ](https://naoya118.github.io/)
