@@ -1,3 +1,5 @@
+<link rel="icon" type="image/x-icon" href="naoya118.ico">
+
 # こんにちは
 ![アイコン](naoya118.jpg)<br>
 
