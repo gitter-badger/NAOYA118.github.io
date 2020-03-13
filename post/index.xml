@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on みんなでつくる</title>
-    <link>https://naoya118.github.com/post/</link>
+    <link>https://naoya118.github.io/post/</link>
     <description>Recent content in Posts on みんなでつくる</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://naoya118.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naoya118.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1st-update</title>
-      <link>https://naoya118.github.com/post/0.1-0.1-/</link>
+      <link>https://naoya118.github.io/post/0.1-0.1-/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naoya118.github.com/post/0.1-0.1-/</guid>
+      <guid>https://naoya118.github.io/post/0.1-0.1-/</guid>
       <description>UI-0.1, System-0.1 このサイトを公開しました 詳細についてはAboutをご覧ください</description>
     </item>
     

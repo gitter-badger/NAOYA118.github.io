@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>みんなでつくる</title>
-    <link>https://naoya118.github.com/</link>
+    <link>https://naoya118.github.io/</link>
     <description>Recent content on みんなでつくる</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://naoya118.github.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naoya118.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1st-update</title>
-      <link>https://naoya118.github.com/post/0.1-0.1-/</link>
+      <link>https://naoya118.github.io/post/0.1-0.1-/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naoya118.github.com/post/0.1-0.1-/</guid>
+      <guid>https://naoya118.github.io/post/0.1-0.1-/</guid>
       <description>UI-0.1, System-0.1 このサイトを公開しました 詳細についてはAboutをご覧ください</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://naoya118.github.com/about/</link>
+      <link>https://naoya118.github.io/about/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naoya118.github.com/about/</guid>
+      <guid>https://naoya118.github.io/about/</guid>
       <description>About This Site このサイトはみんなで会話ロボットをつくろうというサイトです 会話の方法 会話登録の方法</description>
     </item>
     
     <item>
       <title>バグの報告</title>
-      <link>https://naoya118.github.com/bug/</link>
+      <link>https://naoya118.github.io/bug/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naoya118.github.com/bug/</guid>
+      <guid>https://naoya118.github.io/bug/</guid>
       <description>バグの報告は GitHubのIssuesまたは ScratchのNAOYA118にお願いします</description>
     </item>
     
     <item>
       <title>会話する</title>
-      <link>https://naoya118.github.com/ks/</link>
+      <link>https://naoya118.github.io/ks/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naoya118.github.com/ks/</guid>
+      <guid>https://naoya118.github.io/ks/</guid>
       <description>会話する</description>
     </item>
     
     <item>
       <title>会話を登録</title>
-      <link>https://naoya118.github.com/kt/</link>
+      <link>https://naoya118.github.io/kt/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naoya118.github.com/kt/</guid>
+      <guid>https://naoya118.github.io/kt/</guid>
       <description>ルール ふざけた回答はしないでください 同じ質問に対しての回答は一回のみにしてください</description>
     </item>
     
