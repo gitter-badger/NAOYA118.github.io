@@ -1,0 +1,47 @@
+baseurl = "https://naoya118.github.com/Hugo-Test"
+languageCode = "ja"
+theme = "hugo-theme-terminal"
+paginate = 5
+hasCJKLanguage = true
+
+[params]
+  contentTypeName = "post"
+  themeColor = "green"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.en]
+    title = "みんなでつくる"
+    subtitle = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "!Na"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "kt"
+        name = "会話を登録"
+        url = "/kt"
+      [[languages.en.menu.main]]
+        identifier = "ks"
+        name = "会話する"
+        url = "/ks"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "bug"
+        name = "バグの報告"
+        url = "/bug"
+
+[markup.goldmark.renderer]
+  unsafe = true
